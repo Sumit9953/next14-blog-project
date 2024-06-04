@@ -2,7 +2,7 @@
 
 <h1>Next js Blog Project</h1>
 ![screenshot](https://github.com/Sumit9953/next14-blog-project/assets/97390822/1da13f69-3ab1-494c-840d-0a146e3a97f3)
-![image](https://github.com/Sumit9953/next14-blog-project/assets/97390822/a91acb29-beb1-41d9-8b8e-a3216a82f438)
+![screenshot](https://github.com/Sumit9953/next14-blog-project/assets/97390822/a91acb29-beb1-41d9-8b8e-a3216a82f438)
 
 
 First, install the dependencies:
